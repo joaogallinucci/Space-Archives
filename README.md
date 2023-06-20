@@ -1,2 +1,4 @@
 # Space-Archives
 The Space Archives is an open-source game inspired by Space Invaders, made entirely in Python. However, unlike the original Space Invaders, in this game, each enemy is a file from your computer. When you defeat an enemy, one of the files is deleted. But don't worry, the game only detects files that are in the same folder as the game.
+
+Notice: This game is merely an experiment. If you wish to use it, you must select certain files and copy them into the game folder for it to detect them. Under no circumstances should you place important files within the game folder. I do not assume any responsibility for any damage caused to your files or your computer. Additionally, I do not assume any responsibility for other repositories that share the code of this game.
